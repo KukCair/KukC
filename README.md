@@ -1,7 +1,8 @@
 # Personal Website
 
 <aside>
-<img src="/icons/leo_lightgray.svg" alt="/icons/leo_lightgray.svg" width="40px" /> I’m KukCair. A animal(wolf) who live in the Earth.
+
+  I’m KukCair. A animal(wolf) who live in the Earth.
 
 </aside>
 
