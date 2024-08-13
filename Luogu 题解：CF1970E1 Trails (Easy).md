@@ -4,7 +4,9 @@
 
 易得转移方程为
 
-$$dp_{i,j} = \sum_{k=1}^{m}dp_{i-1,k} \cdot (r_j\cdot r_k-l_j\cdot l_k)$$
+$$
+dp_{i,j} = \sum_{k=1}^{m}dp_{i-1,k} \cdot (r_j\cdot r_k-l_j\cdot l_k) 
+$$
 
 （因为至少走一条短路，所以减去全长路的情况）
 
